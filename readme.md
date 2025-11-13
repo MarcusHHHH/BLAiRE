@@ -13,3 +13,8 @@ It creates **shareable, lyric-synced ambient videos** by combining generative ba
 The system generates **base template videos** from user prompts or moods, and then re-edits these templates to perfectly sync with **beats, lyrics, and visual rhythm** — resulting in shareable, eye-catching, social-media-optimized clips.
 
 ---
+## Vision
+
+**BLAiRE** aims to assist musicians in easily and routineley sharing their music with fast, visually engaging videos that capture attention and assist in music discovery. The use of AI-generated content is also entirely optional, and the platform allows users to submit their own images and videos to be used with the engine. As this project is also created by a musician, the goal is always to allow musicians to focus on creating music, while **BLAiRE** handles the time-consuming task of video creation and social media engagement.
+
+---
